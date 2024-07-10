@@ -1,8 +1,10 @@
+
 **Heart Disease Analysis Project**
 This repository contains a comprehensive analysis of heart disease data, utilizing various machine learning techniques to predict the presence of heart disease. The project was created using Python and Jupyter Notebook.
 **
 Project Overview**
 This project involves data preprocessing, exploratory data analysis, and the application of machine learning models to predict heart disease. The data used in this project is the processed Cleveland heart disease dataset.
+
 
 **Files in the Repository**
 Project_in_Heartdisease-Copy1.pdf: The detailed report of the project in PDF format.
